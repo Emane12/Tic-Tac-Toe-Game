@@ -1,11 +1,16 @@
 # Tic-Tac-Toe-Game
 
 This is a 6X6 Tic-Tac-Toe-Game.
+
+It is a TWO players game "X" and "O"
+
+The user can also chose to restart the game again whenever he/she wanted by clicking on the button "Try again" any time.
+
+
 <img width="1009" alt="Screenshot 2023-02-24 at 1 18 39 PM" src="https://user-images.githubusercontent.com/96458509/221258916-e8645160-3308-4e1e-a943-866593a8f2f7.png">
 
 
 
-It is a TWO players game "X" and "O"
 
 
 Each time a player won, a message will pop up in the middle of the screen saying "Player ' ' won the game".
@@ -19,7 +24,6 @@ Each time a player won, a message will pop up in the middle of the screen saying
 And if the game ended as a draw, amessage will say "Let's try again". 
 
 
-The user can also chose to restart the game again whenever he/she wanted by clicking on the button "Try again" any time.
 
 
 
